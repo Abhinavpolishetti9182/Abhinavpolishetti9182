@@ -7,9 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Reliable+Cloud+Infrastructure;Automating+with+Python+and+Terraform;Exploring+DevOps+and+Cloud+Security" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abhinavpolishetti9182&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 <p>
   <a href="https://www.linkedin.com/in/abhinav-polishetti">
@@ -134,7 +132,6 @@ An application for asking questions about PDF documents using retrieval-augmente
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinavpolishetti9182&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
